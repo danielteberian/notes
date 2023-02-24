@@ -39,7 +39,7 @@ low pressure
 lowers its pressure
 
 
-**8. The basic unit of pressure mapped on weather maps is _____.
+**8. The basic unit of pressure mapped on weather maps is _____.**
 
 millibars
 
