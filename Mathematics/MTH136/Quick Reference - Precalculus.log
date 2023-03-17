@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.2)  3 MAR 2023 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.2)  15 MAR 2023 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -91,6 +91,17 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(d:/Programs/TeXLive/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/Programs/TeXLive/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (d:/Programs/TeXLive/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
@@ -99,42 +110,106 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./Quick Reference - Precalculus.aux)
 \openout1 = `"Quick Reference - Precalculus.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
- [1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+
+(d:/Programs/TeXLive/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+
+(d:/Programs/TeXLive/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
 
 {d:/Programs/TeXLive/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-] [2]
-(./Quick Reference - Precalculus.aux) ) 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[2] (./Quick Reference - Precalculus.aux) ) 
 Here is how much of TeX's memory you used:
- 1174 strings out of 476024
- 18539 string characters out of 5785534
- 1850382 words of memory out of 5000000
- 21677 multiletter control sequences out of 15000+600000
- 516601 words of font info for 47 fonts, out of 8000000 for 9000
+ 1719 strings out of 476024
+ 25106 string characters out of 5785534
+ 1853382 words of memory out of 5000000
+ 22201 multiletter control sequences out of 15000+600000
+ 520496 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,6n,62p,243b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/Programs/TeXLive/texlive/2022/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Programs/TeXLive/texlive/202
-2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Programs/TeXLive/texl
-ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Programs/TeXLi
-ve/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Quick Reference - Precalculus.pdf" (2 pages, 41633 bytes).
+ 56i,6n,62p,247b,217s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/Programs/TeXLive/texlive/2022/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Programs/TeXLive/texlive
+/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/Programs/TeXLive/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Programs/T
+eXLive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Pro
+grams/TeXLive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<d:/Programs/TeXLive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+7.pfb><d:/Programs/TeXLive/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><d:/Programs/TeXLive/texlive/2022/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb>
+Output written on "Quick Reference - Precalculus.pdf" (2 pages, 87522 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
