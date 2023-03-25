@@ -145,4 +145,51 @@ innovators
 ### The notion of building products and services in a way that eliminates negative environmental impacts is referred to as ______.
 sustainable design
 
-### 
+### Identifying at what price a product will likely be sold, as well as estimating costs and demand for a product, all take place in the ______ ______ stage of the new-product development process. (Enter one word in each blank.)
+business; analysis
+
+### Understanding the process ______ of gives marketers a way to figure out who will likely buy their product over a period of time, plan an appropriate marketing mix, and forecast potential sales.
+diffusion
+
+### Typically, the easier it is to understand and use a product, the faster it will diffuse. This is the essence of the product characteristic known as ______.
+complexity
+
+### Trevor is an avid skier. He knows where all of the best ski resorts are and is the first of his friends to try out new resorts and ski equipment. When Black Diamond Equipment came out with a new line of skis, Trevor was among the first to purchase them. What type of product adopter is Trevor? 
+Innovator
+
+### There are ______ stages in a product's life cycle.
+5
+
+### Marketers must be aware that because firms are introducing products at a faster rate, a general trend in marketing is that product life cycles are getting ______.
+shorter
+
+### ______ products are those that take longer for consumers to see the benefits of or that do not have a good infrastructure in place to support them.
+High-learning products
+
+### Product strategies in the ______ stage usually involve a reduction in the number of products so that only the best-selling products remain.
+decline
+
+### A high fashion clothing company tries to sell its mini-skirts and midriff-baring tops to women in Iran. However, the culture of Iran frowns upon women wearing such clothing. What product characteristic did this company fail to consider?
+Compatibility
+
+### Which of the following are stages in the product life cycle? (Check all that apply.)
+ - New-product development
+ - Introduction
+ - Growth
+ - Maturity
+ - Decline
+
+### Technology-driven products tend to have a(n) ______ PLC because of rapid changes in computing power and features which impacts how these products are marketed.
+short
+
+### Which type of product has benefits that customers can easily see and whose PLC curve is represented by a steep curve through the maturity phase?
+Low-learning products
+
+### In the ______ stage of the product life cycle, not only is there intensive advertising to stress how the product differs from the competition in order to build awareness, but there is also an intensive effort to expand distribution of the product.
+growth
+
+### The series of stages a product goes through from the time it is launched into the market until the time it is removed from the market is referred to as the ______ ______ ______.
+product; life; cycle
+
+### Marketers must be aware that because firms are introducing products at a faster rate, a general trend in marketing is that product life cycles are getting ______.
+shorter
