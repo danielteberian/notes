@@ -76,3 +76,73 @@ a geographically limited market
 ### The stage in the new-product development process in which companies analyze a new product to determine its profitability is referred to as ______.
 business analysis
 
+### In the product development stage, a firm may choose to create a ______, which is a mock-up of a good made with the materials the firm expects to use in the final product.
+prototype
+
+### What is the first stage of the new-product development process?
+New-product strategy development
+
+### What takes place during the idea generation stage of the new-product development process?
+A set of product concepts is generated for determining potentially viable new products.
+
+### The ______ stage of the new-product development process is usually the most expensive stage for new products.
+product launch
+
+### A company that is introducing a new product in its final form to a geographically limited market to see how well the product sells and get reactions from potential users is engaged in ______.
+test marketing
+
+### Which of the following represents the highest level of risk that occurs in developing new products?
+When the product fails to generate sales
+
+### A company engaged in a business analysis is ultimately attempting to determine the ______ of a potential product.
+profitability
+
+### Once a firm feels confident that a proposed new product will generate a profit for the company, it moves on to the ______ ______ stage of the new-product development process.
+product; development
+
+### In order to reduce the risk of new product failures, the company should let ______ guide idea generation and screening.
+customers
+
+### A new-product strategy aligns the development of products with the company's overall ______ strategy. (Enter one word in the blank.)
+marketing
+
+### Which of the following are companies obligated to do in order to ensure its products are safe? (Check all that apply.)
+- Test prototypes of the product before production begins
+- Regularly test samples of the finished products for possible defects
+- Quickly notify the public and recall the product if it could possibly injure a person
+
+### The final stage of the new-product development process is ______ ______.
+product; launch
+
+### The highest level of risk in new-product development occurs when products prove to be dangerous and defective or when products fail to generate ______.
+sales
+
+### Compared to an incandescent light bulb, an LED light bulb is an example of a good that is more ______. (Enter one word in the blank.)
+sustainable
+
+### The stage in the new-product development process in which companies analyze a new product to determine its profitability is referred to as ______.
+market analysis
+
+### Select from the following the ways in which a company can reduce the risk of new product failures. (Check all that apply.)
+- Anticipate changes in the marketplace
+- Make a commitment to the new-product development process
+- Carefully listen to the customer for new product ideas
+
+### The process through which a product is adopted and spreads across various types of adopters is called ______.
+diffusion
+
+### True or false: According to your text, it is perfectly acceptable from an ethical standpoint for a firm to wait to develop important new products until an existing product has become obsolete or its patent has expired.
+False
+
+### Approximately 2.5% of those who adopt a product do so almost immediately after the product is launched. These people are called ______. (Enter one word in the blank.)
+innovators
+
+### Which of the following activities would take place during the product launch stage of the new-product development process? (Check all that apply.)
+- Preparing internal systems for taking service orders
+- Hiring and training employees
+- Purchasing the materials to make and package the good
+
+### The notion of building products and services in a way that eliminates negative environmental impacts is referred to as ______.
+sustainable design
+
+### 
