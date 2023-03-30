@@ -80,3 +80,15 @@ In order to calculate the specific humidity, one must do the following:
 
 ### 4c. Relative Humidity
 Relative humidity describes how much of the total capacity of a parcel of air has been filled with water vapor.
+
+
+
+### 5. Clouds
+
+
+
+## Appendix
+This section is designed to go over some questions that I had as I studied the concepts in this chapter. I may also include some miscellaneous facts about the chapter.
+
+### Adiabetic versus ELR
+What is the difference between adiabetic lapse rates and environemtal lapse rates? The ELR is to measure the temperature of still air, while the adiabetic rates are used to mesaure air parcels that are rising or descending. The ELR is used to measure temperature of still air, at different altitudes. On the other hand, adiabetic rates are used to measure the changes in temperature as a single parcel of air ascends or descends.
