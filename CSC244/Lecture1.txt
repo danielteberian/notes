@@ -1,0 +1,26 @@
+# Lecture 1
+
+## Basic functions of computers
+The basic functions of a computer are inputting data, outputting data, processing data, and storing data. Data, data, data, data.
+
+## The components of a computer
+The main components of a computer include the memory, the input devices, the output devices, the datapath, and the control.
+
+### Memory
+The memory stores the instructions and data for a given program.
+
+### Input devices
+Input devices, such as computer mice, keyboards, microphones, MIDI shenannigans, and so on, write data to the memory.
+
+## Output devices
+Output devices, such as displays, printers, speakers, and other stuff like that, read data from the memory (and, presumably, share that data with the user).
+
+## Datapath
+Datapath processes data via a collection of functional units, such as ALU (arithmetic logic units), registers, internal buses, and so on.
+
+## Control
+The control sends signals to determine the operations of the datapath, memory, input devices, and output devices.
+
+
+## Abstraction layers
+Abstraction layers are, to put things simply, degrees of seperation between the lowest level of computing and where the user is.
